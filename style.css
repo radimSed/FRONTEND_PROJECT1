@@ -48,7 +48,8 @@ p {
 }
 
 .content-width {
-  width: var(--content-width-pc);
+  width: 90%;
+  max-width: var(--content-width-pc);
   margin: 0 auto;
 }
 
